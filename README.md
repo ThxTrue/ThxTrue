@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ThxTrue
+- 👀 I’m interested in scripting and APIs
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on cool Termina/CLI projects
+- 📫 Reach me @thxtrue on Discord
